@@ -6,10 +6,9 @@ body {
 }
 h1 {
     color: #eecc66;
-    font-size: 5em; 
+    font-size: 6em; 
     border: 5px black solid;
-    background-color:rgb(63, 60, 60); 
-     
+    background-image: url("black.bmp");     
 }
 h2{
     color: blue;
@@ -35,7 +34,7 @@ h3{
 
 .footer {
     width: 120em;
-    height: 5em; 
+    height: 2em; 
     background-color:black;
     text-align: center;
     color:#eecc66;
@@ -48,7 +47,7 @@ h3{
     width: 15em;
     margin-top:1em;
     height:20em;
-background-color: rgb(63, 60, 60);
+background-image: url("black.bmp");
 font-size:2em;
 color: #eecc66;
 border: 2px black solid;
@@ -64,5 +63,6 @@ border: 2px black solid;
 .content {
     float: left;
     width: 80em;
+    padding-bottom: 4em;
 }
 
