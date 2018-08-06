@@ -35,9 +35,11 @@ h3{
 
 .footer {
     width: 120em;
+    height: 5em; 
     background-color:black;
     text-align: center;
     color:#eecc66;
+    clear: both;
 }
 .sidenav {
     float: left;
