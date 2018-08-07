@@ -8,7 +8,7 @@ h1 {
     color: #eecc66;
     font-size: 6em; 
     border: 5px black solid;
-    background-image: url("black2.JPG");     
+    background-image: url("black2.jpg");     
 }
 h2{
     color: blue;
@@ -47,7 +47,7 @@ h3{
     width: 15em;
     margin-top:1em;
     height:20em;
-background-image: url("black2.JPG");
+background-image: url("black2.jpg");
 font-size:2em;
 color: #eecc66;
 border: 2px black solid;
