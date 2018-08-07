@@ -1,0 +1,29 @@
+body{
+    background-image: url("orange.jpg");
+} 
+
+h1{
+        text-align:center;
+        border:5px black solid;
+        font-size: 3em;
+        color: #eecc66;
+        background-image:url("black2.JPG");
+} 
+
+h2{
+    text-align:center;
+    font-size: 2em;
+    color: #eecc66;
+    border:3px black solid;
+    background-image:url(black2.JPG)
+}
+
+.mainphoto{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 50%;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+}
