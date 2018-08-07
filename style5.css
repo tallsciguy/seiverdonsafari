@@ -7,7 +7,7 @@ h1{
         border:5px black solid;
         font-size: 3em;
         color: #eecc66;
-        background-image:url("black2.JPG");
+        background-image:url("black2.jpg");
 } 
 
 h2{
@@ -15,7 +15,7 @@ h2{
     font-size: 2em;
     color: #eecc66;
     border:3px black solid;
-    background-image:url(black2.JPG)
+    background-image:url("black2.jpg");
 }
 
 .mainphoto{ 
